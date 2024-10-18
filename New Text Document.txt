@@ -1,0 +1,23 @@
+Folder PATH listing
+Volume serial number is 3C36-1491
+C:.
+├───3D Objects
+├───Contacts
+├───Desktop
+│   └───Sudheer
+├───Documents
+│   └───Custom Office Templates
+├───Downloads
+│   └───Telegram Desktop
+├───Favorites
+│   └───Links
+├───Links
+├───Music
+├───OneDrive
+├───Pictures
+│   ├───Camera Roll
+│   └───Saved Pictures
+├───Saved Games
+├───Searches
+└───Videos
+    └───Captures
